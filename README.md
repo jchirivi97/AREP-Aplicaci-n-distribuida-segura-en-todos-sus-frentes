@@ -1,7 +1,7 @@
-### AREP Aplicación distribuida segura en todos sus frentes
+# AREP Aplicación distribuida segura en todos sus frentes
 
 
-# Integrante:
+### Integrante:
 
 - Jimmy Armando Chirivi Nivia
 
