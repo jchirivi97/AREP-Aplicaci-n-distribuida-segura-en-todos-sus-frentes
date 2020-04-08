@@ -1,4 +1,4 @@
-# AREP Aplicación distribuida segura en todos sus frentes
+# Aplicación distribuida segura en todos sus frentes
 
 
 ### Integrante:
